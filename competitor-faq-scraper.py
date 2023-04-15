@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import bs4
 
-keyword = 'best mattress for stomach sleepers'
+keyword = 'ENTER KEYWORD HERE'
 
 def search_google(keyword):
     urls = []
